@@ -17,6 +17,10 @@
   <img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue">
 </p>
 
+<p align="center">
+  <img src="docs/screenshot.png" width="860" alt="Swarm downloading with the inspector open">
+</p>
+
 ---
 
 No Python, no background service, no account. The engine is [libtorrent](https://libtorrent.org) 2.1 (the same engine
